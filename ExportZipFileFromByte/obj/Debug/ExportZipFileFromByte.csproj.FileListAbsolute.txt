@@ -1,0 +1,23 @@
+D:\Program\ExportZipFileFromByte\ExportZipFileFromByte\bin\Debug\ExportZipFileFromByte.exe
+D:\Program\ExportZipFileFromByte\ExportZipFileFromByte\bin\Debug\ExportZipFileFromByte.pdb
+D:\Program\ExportZipFileFromByte\ExportZipFileFromByte\obj\Debug\ExportZipFileFromByte.csprojResolveAssemblyReference.cache
+D:\Program\ExportZipFileFromByte\ExportZipFileFromByte\obj\Debug\ExportZipFileFromByte.Properties.Resources.resources
+D:\Program\ExportZipFileFromByte\ExportZipFileFromByte\obj\Debug\ExportZipFileFromByte.csproj.GenerateResource.Cache
+D:\Program\ExportZipFileFromByte\ExportZipFileFromByte\obj\Debug\ExportZipFileFromByte.exe
+D:\Program\ExportZipFileFromByte\ExportZipFileFromByte\obj\Debug\ExportZipFileFromByte.pdb
+D:\Program\ExportZipFileFromByte\ExportZipFileFromByte\obj\Debug\ExportZipFileFromByte.frmGenZip.resources
+\\10.97.2.30\d$\CHAI\Program\ExportZipFileFromByte\ExportZipFileFromByte\obj\Debug\ExportZipFileFromByte.exe
+\\10.97.2.30\d$\CHAI\Program\ExportZipFileFromByte\ExportZipFileFromByte\obj\Debug\ExportZipFileFromByte.pdb
+\\10.97.2.30\d$\CHAI\Program\ExportZipFileFromByte\ExportZipFileFromByte\bin\Debug\ExportZipFileFromByte.exe
+\\10.97.2.30\d$\CHAI\Program\ExportZipFileFromByte\ExportZipFileFromByte\bin\Debug\ExportZipFileFromByte.pdb
+\\10.97.2.30\d$\CHAI\Program\ExportZipFileFromByte\ExportZipFileFromByte\obj\Debug\ExportZipFileFromByte.frmGenZip.resources
+\\10.97.2.30\d$\CHAI\Program\ExportZipFileFromByte\ExportZipFileFromByte\obj\Debug\ExportZipFileFromByte.Properties.Resources.resources
+\\10.97.2.30\d$\CHAI\Program\ExportZipFileFromByte\ExportZipFileFromByte\obj\Debug\ExportZipFileFromByte.csproj.GenerateResource.Cache
+D:\CHAI\Program\New Develop\ExportZipFileFromByte\ExportZipFileFromByte\obj\Debug\ExportZipFileFromByte.exe
+D:\CHAI\Program\New Develop\ExportZipFileFromByte\ExportZipFileFromByte\obj\Debug\ExportZipFileFromByte.pdb
+D:\CHAI\Program\New Develop\ExportZipFileFromByte\ExportZipFileFromByte\bin\Debug\ExportZipFileFromByte.exe
+D:\CHAI\Program\New Develop\ExportZipFileFromByte\ExportZipFileFromByte\bin\Debug\ExportZipFileFromByte.pdb
+D:\CHAI\Program\New Develop\ExportZipFileFromByte\ExportZipFileFromByte\obj\Debug\ExportZipFileFromByte.csprojResolveAssemblyReference.cache
+D:\CHAI\Program\New Develop\ExportZipFileFromByte\ExportZipFileFromByte\obj\Debug\ExportZipFileFromByte.frmGenZip.resources
+D:\CHAI\Program\New Develop\ExportZipFileFromByte\ExportZipFileFromByte\obj\Debug\ExportZipFileFromByte.Properties.Resources.resources
+D:\CHAI\Program\New Develop\ExportZipFileFromByte\ExportZipFileFromByte\obj\Debug\ExportZipFileFromByte.csproj.GenerateResource.Cache
